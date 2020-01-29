@@ -3,7 +3,7 @@ div
   h1.mt-2.mb-4 Emily the Dickens Daughter
   v-btn.blue-grey.darken-1(large to="/")
     v-icon.mr-2 wb_sunny
-    | Night & Day
+    | Night &amp; Day
 
   blockquote.mt-4(style="font-size: 17px")
 
