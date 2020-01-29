@@ -4,6 +4,7 @@ import store from './config/store'
 import router from './config/router'
 import { sync } from 'vuex-router-sync'
 import 'vuetify/dist/vuetify.min.css'
+import '../stylus/main.styl'
 import Root from './components/Root'
 
 Vue.use(Vuetify)

@@ -1,6 +1,6 @@
 <template lang="pug">
 div
-  h1.my-4 Emily the Dickens Daughter
+  h1.mt-2.mb-4 Emily the Dickens Daughter
   v-btn.blue-grey.darken-1(large to="/")
     v-icon.mr-2 wb_sunny
     | Night & Day
